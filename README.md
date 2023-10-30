@@ -1,9 +1,8 @@
 # DCMI 2023 Tutorial 1: LLMs for Semantic Web Query
 
 The emergence of Large Language Models like GPT-4 offers unprecedented capabilities in understanding human intent and generating text. This tutorial explores the intersection of LLMs and semantic web applications, focusing on how these models can automatically generate queries that adhere to metadata standards. Participants will engage in hands-on exercises that demonstrate the integration of LLMs into a sample semantic web application. This session will offer conceptual understanding and practical skills for metadata practitioners, developers, and researchers. The aim is to enable attendees to leverage the capabilities of LLMs in enhancing semantic web applications.  
-**Target audience:** Metadata practitioners, developers, researchers, and those interested in Large Language Models
 
----
+**Target audience:** Metadata practitioners, developers, researchers, and those interested in Large Language Models
 
 ## Expected learning outcomes:
 - Understand LLMs and their capabilities.
@@ -13,12 +12,9 @@ The emergence of Large Language Models like GPT-4 offers unprecedented capabilit
 ## Tutorial style:
 Presentation, demonstration, hands-on practice, discussion and Q&A
 
----
 
 ## Prior knowledge required:
 - Basic familiarity with semantic web technologies, such as RDF or SPARQL.
 - Some basic Python programming skills.
 
----
 
-**Participants are recommended to have:** A dual-monitor setup or two computers to more easily follow along with hands-on exercises while also watching the presentation.
