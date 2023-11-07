@@ -1,4 +1,9 @@
+## GitHub account
+* [Join GitHub](https://github.com/join) 
+* [GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart)
 
+## OpenAI account
+* [Developer quickstart](https://platform.openai.com/docs/quickstart?context=python)
 
 ## Setting up a Python environment using conda
 Here's how you can create a Python 3.10 environment:
