@@ -2,7 +2,7 @@
 
 <center>
     <h2>
-        <a href="https://ff2023.archive.org/">DCMI 2023 </a> <br/>
+        <a href="https://www.dublincore.org/conferences/2023/sessions/tutorial-2/">DCMI 2023 </a> <br/>
         Metadata Innovation: Enabling Knowledge in a Data-Intensive World<br/>
         Kyungpook National University | Daegu, South Korea | November 6-9, 2023<br/>  <br/>
     </h2>
